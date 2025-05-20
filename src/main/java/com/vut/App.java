@@ -1,13 +1,14 @@
 package com.vut;
 
 /**
- * Hello world!
+ * Simple Java Calculator
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Simple java Calculator!" );
     }
 }
+ 
